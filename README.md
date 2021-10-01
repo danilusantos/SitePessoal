@@ -1,3 +1,11 @@
+# Currículo Web para colocar em um Portfólio :notebook_with_decorative_cover:
+
+![resume](img/thumbnail.jpg)
+
+# Versão resumida do currículo :scroll:
+
+
+
 <img src="img/foto.jpg" alt="Selfie de Danilo"  />
 
 # DANILO NASCIMENTO DOS SANTOS
