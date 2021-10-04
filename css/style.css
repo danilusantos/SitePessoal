@@ -1,21 +1,20 @@
 body{
-    background-color:rgb(255, 255, 250);
+    background-color:rgb(60, 60, 60);
     color: rgb(60, 60, 60);
-    font-size: 16pt;
+    font-size: 14pt;
     margin: auto;
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-family: Arial, Helvetica, sans-serif;
 }
 
 #mainframe{
-    margin-top:20px;
+    margin-top:60px;
     margin-right: auto;
     margin-left: auto;
+    margin-bottom: 10px;
     padding: 50px;
     padding-bottom: 100px;
-    max-width: 760px;
+    max-width: 1000px;
     background-color: white;
-    border-radius: 100px;
-    box-shadow:0px 0px 50px lightgrey;
 }
 
 #head_self{
@@ -28,12 +27,12 @@ body{
     height: 200px;
     transition: 1s;
     border-radius: 50%;
-    border:5px solid darkorange;
+    border:5px solid darkred;
 }
 
 #foto_perfil:hover{
     transition: 1s;
-    border-color :darkorchid;
+    border-color :white;
 }
 
 #title{
@@ -55,6 +54,7 @@ body{
 .post_content{
     margin-top:0;
     padding-left: 20px;
+    text-align: justify;
 }
 
 h4{
@@ -63,27 +63,11 @@ h4{
     margin: 0;
 }
 
-.contact_list{
-    margin:0;
-    border-bottom:1px solid lightgrey;
+footer{
+    background: darkred;
+    color: rgb(230, 230, 230);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size:12pt;
+    margin: 0;
     padding:20px;
-    text-align: center;
-    list-style: none;
-}
-
-.contact_list li{
-    border-left: 1px solid lightgrey;
-    display: inline;
-    transition: 0.5s;
-}
-
-.contact_list li a{
-    text-decoration: none;
-    color: rgb(60, 60, 60);
-    padding:10px 30px;
-}
-
-.contact_list li a:hover{
-    color: darkorchid;
-    transition: 1s;
 }
