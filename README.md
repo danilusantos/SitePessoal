@@ -31,10 +31,10 @@ Faculdade de Tecnologia de Praia Grande
 
 ## Cursos Extracurriculares
 
-| <img src="img/htmlcss.png" alt="HTML5 e CSS3" style="zoom: 25%;" /> | Introdução a criação de websites com HTML5 e CSS3: Digital Innovation One 09/2021 a 10/2021 Descrição: Curso de introdução a linguagem de marcação HTML5 e CSS3, onde houve a criação de um exercício que resultou na criação desse currículo web. |
-| ------------------------------------------------------------ | ------------------------------------------------------------ |
-| <img src="img/gitgithub.png" alt="Git e GitHub" style="zoom:8%;" /> | **Introdução ao Git e GitHub:** Digital Innovation One 09/2021 a 09/2021 **Descrição:** Curso de introdução ao Git e a criação de repositório para versionar com o GitHub; |
-| <img src="img/python.png" style="zoom:22%;" />               | **Introdução ao Python3:** Alura Cursos 08/2021 a 09/2021 **Descrição:** Curso de introdução a linguagem Python3 e suas atualizações desde o python2 |
+| ![html5css3](/img/imggithub/htmlcss.png)   | Introdução a criação de websites com HTML5 e CSS3: Digital Innovation One 09/2021 a 10/2021 Descrição: Curso de introdução a linguagem de marcação HTML5 e CSS3, onde houve a criação de um exercício que resultou na criação desse currículo web. |
+| ------------------------------------------ | ------------------------------------------------------------ |
+| ![html5css3](/img/imggithub/gitgithub.png) | **Introdução ao Git e GitHub:** Digital Innovation One 09/2021 a 09/2021 **Descrição:** Curso de introdução ao Git e a criação de repositório para versionar com o GitHub; |
+| ![html5css3](/img/imggithub/python.png)    | **Introdução ao Python3:** Alura Cursos 08/2021 a 09/2021 **Descrição:** Curso de introdução a linguagem Python3 e suas atualizações desde o python2 |
 
 ## Experiências Profissionais
 
