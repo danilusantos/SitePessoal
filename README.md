@@ -18,8 +18,8 @@ danilondosantos@gmail.com | (13) 9 9763-0543
 
 Estou buscando conhecimento e oportunidades para desenvolver minhas habilidades com:
 
-- Desenvolvimento em Web
-- Programador Back-end.
+* Desenvolvedor WEB;
+* Desenvolvedor Back-END.
 
 Atualmente possuo 3 anos de experiência como Técnico em informática, sendo o principal foco a manutenção de microcomputadores e o atendimento ao cliente prioritário.
 
